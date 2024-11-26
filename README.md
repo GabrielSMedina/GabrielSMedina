@@ -7,15 +7,8 @@ Atualmente estou trabalhando com desenvolvimento de software, com isso uso basta
 - **Frontend**: React
 - **Algoritmos**: Python
 
-## 📚 Projetos
-- [Integral por Aproximação](https://github.com/GabrielSMedina/integral_por_aproximacao): Um projeto que explora métodos de aproximação de integrais.
-
 ## 🌱 Em aprendizagem
 - React
 - Websocket
 - Docker
 - Data Science
-
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/gabrielsilmedina/)
-- [Instagram](https://www.instagram.com/gabriel_s_medina/)
