@@ -16,7 +16,7 @@ Atualmente estou trabalhando com desenvolvimento de software, com isso uso basta
 - Docker
 - Data Science
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMedina&layout=compact&theme=defaut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMedina&layout=compact&theme=radical)
 
 
 
